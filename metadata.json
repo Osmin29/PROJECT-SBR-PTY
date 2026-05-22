@@ -1,0 +1,6 @@
+{
+  "name": "Minutas IA",
+  "description": "Graba, transcribe e identifica participantes en tus reuniones por su voz, generando un resumen ejecutivo completo de los acuerdos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
